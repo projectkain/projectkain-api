@@ -1,7 +1,7 @@
 ![Logo of the project](./logo.sample.png)
 
-# Name of the project
-> Additional information or tag line
+# Project Kain  
+Grubie Sarap ahhh
 
 A brief description of your project, what it is used for.
 
@@ -94,7 +94,7 @@ If the api is external, link to api documentation. If not describe your api incl
 ## Database
 
 Explaining what database (and version) has been used. Provide download links.
-Documents your database design and schemas, relations etc... 
+Documents your database design and schemas, relations etc...
 
 ## Licensing
 
