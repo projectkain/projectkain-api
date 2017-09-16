@@ -7,17 +7,17 @@ import { generateToken } from './../../helpers/authentication';
 
 const log = debug('user.controller'); // eslint-disable-line
 
-export async function getAll(req, res, next) {
-  try {
-    const users = await User.find();
-
-    res.send({
-      data: users,
-    });
-  } catch (err) {
-    throw new Error(err);
-  }
-}
+// export async function getAll(req, res, next) {
+//   try {
+//     const users = await User.find();
+//
+//     res.send({
+//       data: users,
+//     });
+//   } catch (err) {
+//     throw new Error(err);
+//   }
+// }
 
 export async function getUser(req, res, next) {
   try {
